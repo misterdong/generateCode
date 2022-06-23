@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.misterdong.generatecode.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.misterdong.generatecode.MyBundle
 
 class MyApplicationService {
 
